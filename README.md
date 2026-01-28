@@ -9,7 +9,7 @@ A simple system to manage **flights, passengers, bookings, and tickets** with CR
 - **Passenger Management:** Manage passenger details.  
 - **Booking System:** Book flights, view history, cancel bookings.  
 - **Ticket Management:** Assign and manage tickets.  
-- **Search:** Search flights by destination, date, and available seats.
+ 
 
 ---
 
